@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://yourusername.github.io"
 
 # Change these lines specifically:
-theme: loon-l/jekyll-theme-leaf
+remote_theme: loon-l/jekyll-theme-leaf
 # DELETE the remote_theme line entirely
 
 header_pages:
@@ -16,3 +16,4 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
