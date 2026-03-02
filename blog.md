@@ -2,11 +2,14 @@
 layout: default
 title: Blog
 ---
-[Back to Home]({{ site.baseurl }}/)
+[← Back to Home]({{ site.baseurl }}/)
 
-# Recent Thoughts
+## Latest Posts
+
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+    </li>
   {% endfor %}
 </ul>
