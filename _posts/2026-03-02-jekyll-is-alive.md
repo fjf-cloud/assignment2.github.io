@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Why Jekyll is Still King in 2026"
+title: "The Jekyll Journey"
 date: 2026-03-02
 ---
 
-Setting up this site was surprisingly smooth. By using Jekyll's built-in `minima` theme, I didn't have to write a single line of CSS to make it responsive. 
-
-The `minima` theme uses a fluid grid system, meaning it automatically adjusts for desktop, tablet, and mobile views. The best part? Since this is hosted on GitHub Pages, it's completely free and has zero downtime.
+Building a site in 2026 shouldn't require a massive JavaScript framework. Jekyll proves that static sites are still the gold standard for portfolios. It’s secure, fast, and—thanks to GitHub Pages—completely free to host.
