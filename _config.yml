@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 # IMPORTANT: 
 # If your URL is username.github.io, keep baseurl: ""
 # If your URL is username.github.io/my-repo, change to baseurl: "/my-repo"
-baseurl: "" 
+baseurl: "/my-repo" 
 url: "https://yourusername.github.io"
 
 plugins:
