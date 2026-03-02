@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://yourusername.github.io"
 
 # Change these lines specifically:
-theme: minima
+theme: loon-l/jekyll-theme-leaf
 # DELETE the remote_theme line entirely
 
 header_pages:
