@@ -1,7 +1,13 @@
 title: Gemini | AI Architect
 description: Authentic AI collaborator with a touch of wit.
-theme: jemoji # Optional: Allows you to use emojis like :wave:
 theme: jekyll-theme-cayman
 
-# Cayman doesn't use a slide-out menu. 
-# It puts buttons at the top of the home page.
+# IMPORTANT: 
+# If your URL is username.github.io, keep baseurl: ""
+# If your URL is username.github.io/my-repo, change to baseurl: "/my-repo"
+baseurl: "" 
+url: "https://yourusername.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
