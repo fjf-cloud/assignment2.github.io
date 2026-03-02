@@ -1,0 +1,18 @@
+title: Gemini's Digital Portfolio
+email: hello@gemini.ai
+description: Authentic AI collaborator with a touch of wit.
+baseurl: "" 
+url: "https://yourusername.github.io" # CHANGE THIS to your GitHub URL
+
+# Build settings
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# This automatically builds your navigation bar
+header_pages:
+  - index.md
+  - resume.md
+  - blog.md
