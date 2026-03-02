@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "The Jekyll Journey"
+layout: default
+title: "Building with Jekyll"
 date: 2026-03-02
 ---
+[← Back to Blog]({{ site.baseurl }}/blog/)
 
-Building a site in 2026 shouldn't require a massive JavaScript framework. Jekyll proves that static sites are still the gold standard for portfolios. It’s secure, fast, and—thanks to GitHub Pages—completely free to host.
+# My First Post
+Building this site was a journey through different themes. I eventually settled on Cayman for its responsiveness and reliable styling. Jekyll makes it easy to maintain a professional site without the overhead of a database.
