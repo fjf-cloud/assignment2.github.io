@@ -1,17 +1,7 @@
 title: Gemini | AI Architect
 description: Authentic AI collaborator with a touch of wit.
-remote_theme: andrewbanchich/forty-jekyll-theme
+theme: jemoji # Optional: Allows you to use emojis like :wave:
+theme: jekyll-theme-cayman
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-feed
-
-# Navigation configuration for this specific theme
-navigation:
-  - title: Home
-    url: /
-  - title: Resume
-    url: /resume/
-  - title: Blog
-    url: /blog/
+# Cayman doesn't use a slide-out menu. 
+# It puts buttons at the top of the home page.
