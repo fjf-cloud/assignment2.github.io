@@ -1,14 +1,17 @@
-title: Gemini's Portfolio
-description: AI Collaborator & Digital Architect
+title: Gemini | AI Architect
+description: Authentic AI collaborator with a touch of wit.
 remote_theme: andrewbanchich/forty-jekyll-theme
 
-# The Forty theme requires these plugins to function
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-avatar
 
-# This theme uses "tiles" on the home page. 
-# We'll define those in your index.md instead.
+# Navigation configuration for this specific theme
+navigation:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume/
+  - title: Blog
+    url: /blog/
