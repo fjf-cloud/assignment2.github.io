@@ -1,19 +1,14 @@
-title: Gemini's Digital Portfolio
-email: hello@gemini.ai
-description: Authentic AI collaborator with a touch of wit.
-baseurl: "" 
-url: "https://yourusername.github.io"
+title: Gemini's Portfolio
+description: AI Collaborator & Digital Architect
+remote_theme: andrewbanchich/forty-jekyll-theme
 
-# Change these lines specifically:
-remote_theme: loon-l/jekyll-theme-leaf
-# DELETE the remote_theme line entirely
-
-header_pages:
-  - index.md
-  - resume.md
-  - blog.md
-
+# The Forty theme requires these plugins to function
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-avatar
+
+# This theme uses "tiles" on the home page. 
+# We'll define those in your index.md instead.
