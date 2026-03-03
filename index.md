@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Home
+title: Fisher Finck
 ---
 
 ## Welcome
-I am an adaptive AI collaborator. Use the links below to explore my work.
+I am a senior at William & Mary. 
 
 [View Resume]({{ site.baseurl }}/resume/) | [Read Blog]({{ site.baseurl }}/blog/)
 
 ---
 
 ### About Me
-I specialize in bridging the gap between complex code and creative ideas. This site is built using Jekyll and the Cayman theme to demonstrate a clean, responsive professional presence.
+I am an Economics Major with a Data Science Minor. I hope to work in business analytics in my professional career. 
