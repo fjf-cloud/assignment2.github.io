@@ -1,13 +1,7 @@
-title: Gemini | AI Architect
+title: Home
 description: Authentic AI collaborator with a touch of wit.
 theme: jekyll-theme-cayman
 
-# IMPORTANT: 
-# If your URL is username.github.io, keep baseurl: ""
-# If your URL is username.github.io/my-repo, change to baseurl: "/my-repo"
-baseurl: "/my-repo" 
-url: "https://yourusername.github.io"
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
+# This is the exact path to your site
+baseurl: "/assignment2.github.io"
+url: "https://fjf-cloud.github.io"
