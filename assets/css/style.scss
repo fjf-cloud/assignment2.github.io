@@ -1,0 +1,55 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Professional Color Variables */
+$navy-blue: #1e3a5f;      /* Deep, trustworthy blue */
+$slate-grey: #4b5563;     /* Modern grey for text/accents */
+$light-bg: #f8fafc;       /* Off-white for readability */
+
+/* Update the Header Gradient (The most impactful change) */
+.page-header {
+  color: #ffffff;
+  text-align: center;
+  /* Shift from Green to a Professional Navy/Slate Gradient */
+  background-color: $navy-blue;
+  background-image: linear-gradient(135deg, #0f172a, #1e3a5f);
+  padding: 3rem 4rem;
+}
+
+/* Update the Navigation Links (if you added the nav bar) */
+nav {
+  background: #ffffff !important;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+nav a {
+  color: $navy-blue !important;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Update Buttons to look like "Action" buttons */
+.btn {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: #ffffff;
+}
+
+/* Main Content Text Sharpness */
+.main-content {
+  color: #1a202c;
+  line-height: 1.6;
+}
+
+.main-content h1, .main-content h2, .main-content h3 {
+  color: $navy-blue;
+}
