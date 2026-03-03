@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Blog
+permalink: /blog/
 ---
+
 [← Back to Home]({{ site.baseurl }}/)
 
-## Latest Posts
-
+## My Thoughts
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
