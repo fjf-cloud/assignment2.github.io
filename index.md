@@ -3,10 +3,6 @@ layout: default
 title: Fisher Finck
 ---
 
-## Welcome
-I am a senior at William & Mary. 
-
-[View Resume]({{ site.baseurl }}/resume/) | [Read Blog]({{ site.baseurl }}/blog/)
 
 ---
 
