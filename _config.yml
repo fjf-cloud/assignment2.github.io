@@ -1,7 +1,5 @@
-title: Home
-description: Professional Website
+title: Fisher Finck
+description: Business Analyst | William & Mary '27
 theme: jekyll-theme-cayman
-
-# This is the exact path to your site
 baseurl: "/assignment2.github.io"
 url: "https://fjf-cloud.github.io"
