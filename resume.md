@@ -15,7 +15,6 @@ permalink: /resume/
 
 ### **Liberty Mutual Insurance** | *Boston, MA / Remote*
 **Incoming Business Analyst Intern** | *Expected June 2026 – August 2026*
-* Selected for the Summer 2026 analyst cohort to support enterprise-level business intelligence and risk assessment initiatives.
 
 ### **Capital One** | *Plano, TX*
 **Business Analyst Intern – Financial Services Strategy** | *June 2025 – August 2025*
