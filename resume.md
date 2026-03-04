@@ -27,11 +27,11 @@ permalink: /resume/
 ## 🔬 Research & Leadership
 
 ### **W&M Economics Department** | *Williamsburg, VA*
-**Research Assistant** | *Jan 2025 – Present*
+**Research Assistant** | *Jan 2025 – Dec 2024*
 * **Spatial Data Analysis:** Utilizing ArcGIS and QGIS to digitize and correct historical maps, enhancing data accuracy for econometric studies.
 
 ### **Sigma Alpha Epsilon** | *Williamsburg, VA*
-**Treasurer, Executive Board** | *Nov 2025 – Present*
+**Treasurer, Executive Board** | *Nov 2024 – Nov 2025*
 * **Fiscal Oversight:** Managing a $40,000+ budget, including 990 Tax Form filing and auditing fundraising campaigns to maintain Non-Profit status.
 * **Team Leadership:** Leading an interdepartmental treasury team to ensure successful implementation of organizational financial initiatives.
 
@@ -40,9 +40,7 @@ permalink: /resume/
 ## 🎓 Education
 
 **William & Mary** Williamsburg, VA  
-B.A. Economics  
-Minor in Data Science  
-Master’s in Business Analytics  
+B.A. Economics, Minor in Data Science, Master’s in Business Analytics  
 Expected May 2027  
 
 * **Honors:** Dean's List, Elks Scholar  
@@ -50,8 +48,8 @@ Expected May 2027
 
 ---
 
-**Blue Ridge Governor’s School & Advanced College Academy** Associate Degree (Dual-Degree Program)  
-Graduated Magna Cum Laude
+**Blue Ridge Governor’s School & Advanced College Academy**<br>
+Associate Degree (Dual-Degree Program) - Graduated Magna Cum Laude
 
 ---
 
