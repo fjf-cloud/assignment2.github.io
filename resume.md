@@ -9,7 +9,7 @@ permalink: /resume/
 
 ## 💼 Professional Experience
 
-### **Liberty Mutual Insurance** | *Boston, MA / Remote*
+### **Liberty Mutual Insurance** | *Boston, MA*
 **Incoming Business Analyst Intern** | *Expected June 2026 – August 2026*
 
 ### **Capital One** | *Plano, TX*
