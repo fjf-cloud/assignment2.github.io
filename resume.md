@@ -6,10 +6,6 @@ permalink: /resume/
 
 [← Back to Home]({{ '/' | relative_url }})
 
-# Fisher Finck
-**Richmond, VA** 
-
----
 
 ## 💼 Professional Experience
 
