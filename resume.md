@@ -7,7 +7,7 @@ permalink: /resume/
 [← Back to Home]({{ '/' | relative_url }})
 
 # Fisher Finck
-**Richmond, VA** | 804-370-2571 | fisherfinck@gmail.com
+**Richmond, VA** 
 
 ---
 
