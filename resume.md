@@ -40,8 +40,7 @@ permalink: /resume/
 ## 🎓 Education
 
 **William & Mary** Williamsburg, VA  
-B.A. Economics, Minor in Data Science, Master’s in Business Analytics  
-Expected May 2027  
+B.A. Economics, Minor in Data Science, Master’s in Business Analytics - Expected May 2027  
 
 * **Honors:** Dean's List, Elks Scholar  
 * **Relevant Coursework:** Econometrics, Intermediate Micro/Macro Theory, Data Science  
