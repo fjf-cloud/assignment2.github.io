@@ -1,19 +1,32 @@
 <style>
+  /* Base hover for all links */
+  .nav-link:hover {
+    color: #128048 !important; 
+    text-decoration: underline !important;
+  }
+  
+  /* Specific hover for the Connect button */
   .nav-btn:hover {
-    background-color: #128048 !important; /* Slightly darker green on hover */
-    text-decoration: underline;
+    background-color: #128048 !important; 
+    color: white !important;
+    text-decoration: none !important; /* Buttons usually shouldn't underline */
+    transform: translateY(-1px); /* Subtle lift effect */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.15) !important;
   }
 </style>
 
 <nav style="text-align: right; padding: 15px 20px; background: rgba(0,0,0,0.05); font-family: sans-serif; display: flex; justify-content: flex-end; align-items: center;">
-  <a href="{{ site.baseurl }}/" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none;">Home</a>
-  <a href="{{ site.baseurl }}/resume/" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none;">Resume</a>
-  <a href="{{ site.baseurl }}/blog/" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none;">Blog</a>
+  
+  <a href="{{ site.baseurl }}/" class="nav-link" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none; transition: 0.2s;">Home</a>
+  <a href="{{ site.baseurl }}/resume/" class="nav-link" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none; transition: 0.2s;">Resume</a>
+  <a href="{{ site.baseurl }}/blog/" class="nav-link" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none; transition: 0.2s;">Blog</a>
+
+  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank" class="nav-link" style="margin-right: 20px; color: #159957; font-weight: bold; text-decoration: none; transition: 0.2s;">GitHub</a>
   
   <a href="https://linkedin.com/in/fisher-finck-bb7497204" 
      target="_blank" 
      class="nav-btn"
-     style="background-color: #159957; color: white; padding: 8px 16px; border-radius: 5px; font-weight: bold; text-decoration: none; transition: 0.2s; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+     style="background-color: #159957; color: white; padding: 8px 18px; border-radius: 5px; font-weight: bold; text-decoration: none; transition: 0.2s; box-shadow: 0 2px 4px rgba(0,0,0,0.1); display: inline-block;">
      Connect
   </a>
 </nav>
