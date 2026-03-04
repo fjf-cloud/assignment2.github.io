@@ -39,11 +39,19 @@ permalink: /resume/
 
 ## 🎓 Education
 
-**William & Mary** | *Williamsburg, VA* 
-**B.A. Economics, Minor in Data Science, Master’s in Business Analytics** | *Expected May 2027* * **Honors:** Dean's List, Elks Scholar  
-* **Relevant Coursework:** Econometrics, Intermediate Micro/Macro Theory, Data Science
+**William & Mary** Williamsburg, VA  
+B.A. Economics  
+Minor in Data Science  
+Master’s in Business Analytics  
+Expected May 2027  
 
-**Blue Ridge Governor’s School & Advanced College Academy** * Received Associate degree through dual-degree program; Graduated Magna Cum Laude.
+* **Honors:** Dean's List, Elks Scholar  
+* **Relevant Coursework:** Econometrics, Intermediate Micro/Macro Theory, Data Science  
+
+---
+
+**Blue Ridge Governor’s School & Advanced College Academy** Associate Degree (Dual-Degree Program)  
+Graduated Magna Cum Laude
 
 ---
 
