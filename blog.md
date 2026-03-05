@@ -6,7 +6,7 @@ permalink: /blog/
 
 [← Back to Home]({{ site.baseurl }}/)
 
-## My Thoughts
+## My Recent Posts
 
 <div class="blog-feed">
   {% for post in site.posts %}
