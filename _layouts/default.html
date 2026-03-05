@@ -1,4 +1,17 @@
-<header class="page-header" role="banner">
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    {% include nav.html %} <header class="page-header" role="banner">
   <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 20px; max-width: 64rem; margin: 0 auto; padding: 0 20px;">
     
     <img src="https://media.licdn.com/dms/image/v2/D4E03AQHNwQBEqMaOMA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715015065041?e=2147483647&v=beta&t=_MRuHVS4qarfMMMH4dzUCSqpDUkzZ5mQFjemnsDs8CM" 
@@ -12,3 +25,11 @@
 
   </div>
 </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+      
+      </footer>
+    </main>
+  </body>
+</html>
