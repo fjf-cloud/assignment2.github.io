@@ -5,7 +5,9 @@ title: Fisher Finck
 
 
 # Welcome to my Portfolio
-I am happy you made your way to my website! I am a current student at William & Mary where I am pursuing an Economics Major with a Data Science Minor. After I graduate in the Spring of 2026, I am pursuing a Master's degree in Business Analytics through the William & Mary Business School. Once I graduate from the Business Analytics program, I hope to pursue a full time business analyst role anywhere on the east coast. If you would like to connect or chat, please use the connect button in the top righthand corner which will take you straight to my Linkedin! 
+Welcome to my website. I am currently a student at William & Mary pursuing a degree in Economics with a minor in Data Science. Following my graduation in the Spring of 2026, I will continue my studies at the William & Mary School of Business to obtain a Master of Science in Business Analytics.
+
+Upon completion of my graduate studies, I intend to transition into a full-time business analyst role along the East Coast. I invite you to explore my professional experience and personal insights through the Resume and Blog links located in the top navigation bar. If you would like to discuss potential career opportunities or connect, please use the Connect button to reach me directly on LinkedIn!
 
 <div style="clear:both;"></div>
 
